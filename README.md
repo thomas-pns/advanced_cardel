@@ -16,6 +16,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
+[MIT](https://github.com/thomas-pns/advanced_cardel/blob/main/LICENSE)
+
 Vous pouvez utiliser et modifier ce code à votre guise. Cependant, ne prétendez jamais que c'est votre propre code et fournissez toujours un crédit approprié. Je ne vous aiderai cependant pas si vous souhaitez modifier mon code.
 
 You can use and modify this code as you wish. However, never pretend it's your own code and always provide proper credit. I won't help you though if you want to change my code.
