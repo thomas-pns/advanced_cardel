@@ -4,7 +4,7 @@
 The config.lua is complete so is easy to configure !
 You can change the banner on "```stream/common.ytd```" the size is 512 x 128 and change name of texture on config.lua !
 For finish you can make visible the menu with key (config.lua) or event.
-→ ```TriggerEvent("open:advanced_cardel")``
+→ ```TriggerEvent("open:advanced_cardel")```
 
 ## Usage
 You just have to complete in config.lua
